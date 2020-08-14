@@ -1,0 +1,22 @@
+body{
+  padding: 40px;
+  background-color: #fff1ad;
+}
+
+#logo{
+  width: 300px;
+}
+
+h1{
+  font-family: 'Chilanka';
+  color: #da981d;
+}
+
+.btn-fortune{
+  background-color: #da981d;
+  font-family: 'Chilanka';
+}
+
+h3{
+  font-family: 'Chilanka';
+}
